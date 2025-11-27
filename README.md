@@ -1,0 +1,1 @@
+[![Board Status](https://pablosoundaudio.visualstudio.com/cbf3b96f-c6fd-492f-9016-02fe559de373/e8401682-e855-4704-b68c-ed612f88063d/_apis/work/boardbadge/6aca353a-0899-4e2d-b228-373bd0328b16)](https://pablosoundaudio.visualstudio.com/cbf3b96f-c6fd-492f-9016-02fe559de373/_boards/board/t/e8401682-e855-4704-b68c-ed612f88063d/Microsoft.RequirementCategory)
